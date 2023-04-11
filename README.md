@@ -1,1 +1,1 @@
-# music_genereator
+# music_generator
