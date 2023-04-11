@@ -1,1 +1,1 @@
-# classical_piano_classifcation
+# music_genereator
